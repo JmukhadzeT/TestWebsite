@@ -1,14 +1,14 @@
 @font-face {
   font-family: OpenSansBold;
-  src: url('/Fonts/OpenSans-Bold.ttf');
+  src: url('../Fonts/OpenSans-Bold.ttf');
 }
 @font-face {
   font-family: OpenSansRegular;
-  src: url('/Fonts/OpenSans-Regular.ttf');
+  src: url('../Fonts/OpenSans-Regular.ttf');
 }
 @font-face {
   font-family: OpenSansExtraBold;
-  src: url('/Fonts/OpenSans-ExtraBold.ttf');
+  src: url('../Fonts/OpenSans-ExtraBold.ttf');
 }
 
 * {
@@ -61,7 +61,7 @@ a {
 }
 
 .banner {
-  background-image: url("/Img/Banner.png");
+  background-image: url('../Img/Banner.png');
   height: 550px;
   background-position: center;
   background-size: cover;
