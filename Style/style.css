@@ -1,14 +1,14 @@
 @font-face {
   font-family: OpenSansBold;
-  src: url(/Fonts/OpenSans-Bold.ttf);
+  src: url("/Fonts/OpenSans-Bold.ttf");
 }
 @font-face {
   font-family: OpenSansRegular;
-  src: url(/Fonts/OpenSans-Regular.ttf);
+  src: url("/Fonts/OpenSans-Regular.ttf");
 }
 @font-face {
   font-family: OpenSansExtraBold;
-  src: url(/Fonts/OpenSans-ExtraBold.ttf);
+  src: url("/Fonts/OpenSans-ExtraBold.ttf");
 }
 
 * {
@@ -61,7 +61,7 @@ a {
 }
 
 .banner {
-  background-image: url("Img/Banner.png");
+  background-image: url("/Img/Banner.png");
   height: 550px;
   background-position: center;
   background-size: cover;
@@ -198,7 +198,7 @@ a {
   font-size: 79px;
 }
 .Signup {
-  background-image: url("Img/Shorts.png");
+  background-image: url("/Img/Shorts.png");
   background-size: cover;
   padding: 55px 0px;
   text-align: center;
@@ -222,17 +222,17 @@ a {
   font-size: 20px;
 }
 .crd1 {
-  background-image: url("Img/Sitting.png");
+  background-image: url("/Img/Sitting.png");
   background-repeat: no-repeat;
   background-position: center;
 }
 .crd2 {
-  background-image: url("Img/InPool.png");
+  background-image: url("/Img/InPool.png");
   background-repeat: no-repeat;
   background-position: center;
 }
 .crd3 {
-  background-image: url("Img/Skater.png");
+  background-image: url("/Img/Skater.png");
   background-repeat: no-repeat;
   background-position: center;
 }
